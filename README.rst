@@ -15,7 +15,9 @@ To install::
 
     sudo pip install patroltrigger
 
-Create a patrol.py file in your project's root directory::
+Create a patrol.py file in your project's root directory:
+
+.. code-block:: python
 
     #!/usr/bin/python
     from patroltrigger import runnable, run, trigger
