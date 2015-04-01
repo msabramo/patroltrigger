@@ -18,6 +18,7 @@ setup(name="patroltrigger",
       version="0.1",
       description="Trigger custom commands from filesystem events.",
       long_description=long_description,
+      url='https://github.com/crdoconnor/patroltrigger',
       classifiers=[
           'Development Status :: 3 - Alpha',
           'Intended Audience :: Developers',
